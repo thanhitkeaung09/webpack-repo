@@ -1,6 +1,8 @@
 // import _ from "lodash";
 // import "~bootstrap/dist/css/bootstrap.css";
 import "./index.scss"
+import "../js/appone"
+import "../js/app.js"
 // import "bootstrap";
 
 // import join from "lodash/join"
